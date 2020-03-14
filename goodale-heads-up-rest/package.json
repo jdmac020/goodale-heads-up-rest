@@ -1,6 +1,9 @@
 {
   "name": "goodale-heads-up-rest",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.16.x"
+  },
   "description": "An app to like, count parking spaces, dude.",
   "main": "index.js",
   "scripts": {
